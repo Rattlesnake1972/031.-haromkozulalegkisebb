@@ -5,3 +5,11 @@ C:\Users\gratt\source\repos\031. haromkozulalegkisebb\031. haromkozulalegkisebb\
 C:\Users\gratt\source\repos\031. haromkozulalegkisebb\031. haromkozulalegkisebb\obj\Debug\031. haromkozulalegkisebb.csproj.CoreCompileInputs.cache
 C:\Users\gratt\source\repos\031. haromkozulalegkisebb\031. haromkozulalegkisebb\obj\Debug\_031.haromkozulalegkisebb.exe
 C:\Users\gratt\source\repos\031. haromkozulalegkisebb\031. haromkozulalegkisebb\obj\Debug\_031.haromkozulalegkisebb.pdb
+I:\Szoftverfejlesztés\Kandós cuccok\C# - Kasza László Róbert\Összes Saját C#\031. haromkozulalegkisebb\031. haromkozulalegkisebb\bin\Debug\_031.haromkozulalegkisebb.exe.config
+I:\Szoftverfejlesztés\Kandós cuccok\C# - Kasza László Róbert\Összes Saját C#\031. haromkozulalegkisebb\031. haromkozulalegkisebb\bin\Debug\_031.haromkozulalegkisebb.exe
+I:\Szoftverfejlesztés\Kandós cuccok\C# - Kasza László Róbert\Összes Saját C#\031. haromkozulalegkisebb\031. haromkozulalegkisebb\bin\Debug\_031.haromkozulalegkisebb.pdb
+I:\Szoftverfejlesztés\Kandós cuccok\C# - Kasza László Róbert\Összes Saját C#\031. haromkozulalegkisebb\031. haromkozulalegkisebb\obj\Debug\031. haromkozulalegkisebb.csproj.AssemblyReference.cache
+I:\Szoftverfejlesztés\Kandós cuccok\C# - Kasza László Róbert\Összes Saját C#\031. haromkozulalegkisebb\031. haromkozulalegkisebb\obj\Debug\031. haromkozulalegkisebb.csproj.SuggestedBindingRedirects.cache
+I:\Szoftverfejlesztés\Kandós cuccok\C# - Kasza László Róbert\Összes Saját C#\031. haromkozulalegkisebb\031. haromkozulalegkisebb\obj\Debug\031. haromkozulalegkisebb.csproj.CoreCompileInputs.cache
+I:\Szoftverfejlesztés\Kandós cuccok\C# - Kasza László Róbert\Összes Saját C#\031. haromkozulalegkisebb\031. haromkozulalegkisebb\obj\Debug\_031.haromkozulalegkisebb.exe
+I:\Szoftverfejlesztés\Kandós cuccok\C# - Kasza László Róbert\Összes Saját C#\031. haromkozulalegkisebb\031. haromkozulalegkisebb\obj\Debug\_031.haromkozulalegkisebb.pdb
